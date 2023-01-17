@@ -10,7 +10,7 @@ The goal of this repository is a curated list of resources that serve specifical
 
 # Regulation
 # Tutorials
-![Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial]([https://link-url-here.org](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood)) AAAI 2021, KDD 2020,Pedro Saleiro, Feedzai, Kit T. Rodolfa, Carnegie Mellon University, Rayid Ghani, Carnegie Mellon University
+1. [Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial]([https://link-url-here.org](https://www.youtube.com/watch?v=N67pE1AF5cM&ab_channel=DataScienceforSocialGood)) AAAI 2021, KDD 2020,Pedro Saleiro, Feedzai, Kit T. Rodolfa, Carnegie Mellon University, Rayid Ghani, Carnegie Mellon University
 
 # Papers
 # Use Cases
